@@ -1,3 +1,3 @@
-# Welcome to My Docs
+# IT Support Framework
 
-This is the home page of my documentation site.
+Initial Homepage
