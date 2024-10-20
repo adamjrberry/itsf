@@ -1,4 +1,4 @@
-site_name: My Docs
-theme: readthedocs
+site_name: ITSF Site
+theme: material
 nav:
   - Home: index.md
